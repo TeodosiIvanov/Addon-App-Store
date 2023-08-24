@@ -1,0 +1,2 @@
+Scala plugin Ultimate revision: 76697ac3e9828251dbba2b93802239ed8f728107 ('format:pre-release-checklist: update changenotes.html')
+Scala plugin Community revision: 4c34e9bc6043ef840817911ff4f81196c9366237 ('format:type-level compiler intrinsics: dealias type aliases #SCL-20410')
